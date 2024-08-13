@@ -8,6 +8,6 @@ entries:
     digest: a49fff6e36aaa3e1541c83c60b01e66463ec70e4b89ffa6eb424af7cabc9b698
     name: infomaniak-webhook
     urls:
-    - infomaniak-webhook-0.2.0.tgz
-    version: 0.2.0
+    - infomaniak-webhook-0.0.2.tgz
+    version: 0.0.2
 generated: "2023-08-19T04:35:14.219449+02:00"
